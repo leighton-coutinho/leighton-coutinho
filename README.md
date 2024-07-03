@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Recent Graduate, Developer
 --------------------------
 
-I've been learning to code since I was a teenager and and love building easy-to-use products that address pain points that the people around me experience. I fell in love with coding since I love the idea of building tools to help make peoples lives.
+I've been learning to code since I was a teenager and and love building easy-to-use products that address pain points that the people around me experience. I fell in love with coding since I love the idea of building tools to help make peoples lives easier.
 
 * 🌍  I'm based in Montreal. Quebec, Canada
 * ✉️  You can contact me at [leighton.coutinho@mail.mcgill.ca](mailto:leighton.coutinho@mail.mcgill.ca)
