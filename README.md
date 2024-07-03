@@ -9,7 +9,7 @@ I've been learning to code since I was a teenager and and love building easy-to-
 * 🌍  I'm based in Montreal. Quebec, Canada
 * ✉️  You can contact me at [leighton.coutinho@mail.mcgill.ca](mailto:leighton.coutinho@mail.mcgill.ca)
 * 🧠  I'm learning Spring Boot
-* 🤝  I'm open to collaborating on any interesting projects, if you want to collaborate feel free to send me an email
+* 🤝  I'm open to collaborating on any interesting projects, if you would like to collaborate feel free to send me an email
 
 ### Skills
 
