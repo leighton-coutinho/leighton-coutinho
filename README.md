@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leighton Coutinho
 =========================================================================================================================================
 
-Recent Graduate, Developer
+Software Designer at Matrox Graphics Inc
 --------------------------
 
 I've been learning to code since I was a teenager and and love building easy-to-use products that address pain points that the people around me experience. I fell in love with coding since I love the idea of building tools to help make peoples lives easier.
